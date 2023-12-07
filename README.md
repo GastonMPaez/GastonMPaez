@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning SQL, C++; C#
 - 📫 How to reach me: gastonpaez954@gmail.com
+![image](https://github.com/GastonMPaez/GastonMPaez/assets/104225501/be843243-0f2e-4b7f-9ac8-c5ffab3af300)
 
 <!--
 **GastonMPaez/GastonMPaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
