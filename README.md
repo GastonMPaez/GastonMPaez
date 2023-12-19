@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning SQL, C++; C#
 - 📫 How to reach me: gastonpaez954@gmail.com
 
+## About ME
+- I'm from Buenos Aires, Argentina 📍
 <!--
 **GastonMPaez/GastonMPaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
