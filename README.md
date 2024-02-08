@@ -1,6 +1,6 @@
 # 👋 Hello I'm Gaston 
 
-- 🔭 I’m currently working on my [Portfolio]()
+- 🌐 Here you can visit my [Portfolio](https://gastonmpaez.github.io/Portfolio/)
 - 🌱 I’m currently learning SQL, C++; C#
 - 📫 How to reach me: gastonpaez954@gmail.com
 
